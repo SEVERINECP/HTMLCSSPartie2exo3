@@ -1,4 +1,9 @@
 body{
-  background-image:url(image/Orson_Welles-Citizen_Kane1.jpg);
-  background-repeat: no-repeat;
+  background-image:url('../image/Orson_Welles-Citizen_Kane1.jpg');
+  background-repeat:no-repeat;
+  background-size: auto;
+}
+p{
+  color:#CD0202;
+
 }
