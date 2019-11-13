@@ -7,6 +7,11 @@
 .colorb{
   background-color: #e91f90;
 }
-.opacity{
-  opacity: 0,5;
+/*pour supprimer les puces d'une liste*/
+ul{
+  list-style-type: none;
+}
+/*pour que la taille du cadre ne soit pas modifié par le visiteur*/
+textarea{
+  resize: none;
 }
